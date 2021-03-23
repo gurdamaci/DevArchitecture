@@ -18,6 +18,7 @@ namespace Business.DependencyResolvers
         {
         }
 
+        //Test
         public AutofacBusinessModule(ConfigurationManager configuration)
         {
             _configuration = configuration;
